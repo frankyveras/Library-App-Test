@@ -1,0 +1,11 @@
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\bin\Debug\netcoreapp2.0\BookApp.deps.json
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\bin\Debug\netcoreapp2.0\BookApp.runtimeconfig.json
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\bin\Debug\netcoreapp2.0\BookApp.runtimeconfig.dev.json
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\bin\Debug\netcoreapp2.0\BookApp.dll
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.csprojResolveAssemblyReference.cache
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.AssemblyInfo.cs
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\bin\Debug\netcoreapp2.0\BookApp.pdb
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.dll
+C:\Users\Franky\Documents\Visual Studio 2017\Projects\BookApp\BookApp\obj\Debug\netcoreapp2.0\BookApp.pdb
